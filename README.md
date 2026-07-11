@@ -11,7 +11,7 @@
 <br />
 <div align="center">
 
-hi i like parasites and ivantill
+ ${\textsf{\color{#96a3ae} i like parasites and ivantill }}$ 
 
 </div>
 <br />
