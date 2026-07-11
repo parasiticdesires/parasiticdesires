@@ -7,14 +7,19 @@
 
 <p align="center"> <img width="100" height="25" src="https://komarev.com/ghpvc/?username=parasiticdesires&label=moons%20&color=b9c4cd&style=flat" alt="parasiticdesires" /p
 
-<img src="https://media.discordapp.net/attachments/1452089849975803968/1525397481305931837/Untitled483_20260711005954.png?ex=6a533c9c&amp;is=6a51eb1c&amp;hm=5f54ab7a8b96f62d333e44afe21ef7a2335e1a177017ce34681afb250be2d413&amp;=&amp;format=webp&amp;quality=lossless&amp;width=1052&amp;height=592" alt="Image"/>
+</div>
+<br />
+<div align="center">
+  
+<img width="1052" height="592" alt="image" src="https://github.com/user-attachments/assets/72fe0f0d-cb6c-42b4-bc64-2c8f5e911b50" />
+
 
 </div>
 <br />
 <div align="center">
   
 
-[ᴀᴛᴀ](https://horrorhusbands.atabook.org/) [ʀᴇɴᴛʀʏ](https://rentry.co/horrorhusbandss) [ɢᴜɴꜱ](https://guns.lol/quietmoment) <br /> <img width="250" height="250" alt="tumblr-gif" src="https://github.com/user-attachments/assets/432863f2-ef5d-4b11-a432-47253a37e402" />
+[ᴀᴛᴀ](https://horrorhusbands.atabook.org/) 🪽 [ʀᴇɴᴛʀʏ](https://rentry.co/horrorhusbandss) 🪽 [ɢᴜɴꜱ](https://guns.lol/quietmoment) <br /> <img width="250" height="250" alt="tumblr-gif" src="https://github.com/user-attachments/assets/432863f2-ef5d-4b11-a432-47253a37e402" />
 
 </div>
 <br />
