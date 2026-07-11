@@ -10,6 +10,23 @@
 </div>
 <br />
 <div align="center">
+
+hi i like parasites and ivantill
+
+</div>
+<br />
+<div align="center"> 
+
+꒰১ ໒꒱
+
+</div>
+<br />
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317tbskacqb276ffokhlmupoo6um&cover_image=true&theme=novatorem&show_offline=true&background_color=ece4de&interchange=false&profanity=false&hide_remaster=false&bar_color=96a3ae&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+<div align="center">
   
 <img width="1052" height="592" alt="image" src="https://github.com/user-attachments/assets/72fe0f0d-cb6c-42b4-bc64-2c8f5e911b50" />
 
