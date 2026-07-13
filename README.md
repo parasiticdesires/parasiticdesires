@@ -1,5 +1,6 @@
 
-<img src="https://media.discordapp.net/attachments/1452089849975803968/1525397476041822218/Untitled484_20260711010248.png?ex=6a533c9a&amp;is=6a51eb1a&amp;hm=f35267a4c4c689dc0b4ffbb8cec9fc3ce4cd5ba87911014170da7fb526b66e45&amp;=&amp;format=webp&amp;quality=lossless" alt="Image"/>
+<img width="1200" height="237" alt="image" src="https://github.com/user-attachments/assets/ce9c9792-8dfe-44b1-8dd0-e4ca7cd67470" />
+
 
 </div>
 <br />
@@ -44,5 +45,6 @@
 <br />
 <div align="center">
   
-<img src="https://media.discordapp.net/attachments/1452089849975803968/1525397487857434644/Untitled484_20260711010252.png?ex=6a533c9d&amp;is=6a51eb1d&amp;hm=64aa0867b3f71d1009c03e2812f0cbe4f938c65417ad980798887e80a9e5fa3b&amp;=&amp;format=webp&amp;quality=lossless" alt="Image"/>
+<img width="1200" height="237" alt="image" src="https://github.com/user-attachments/assets/be0f968c-003e-447f-af8c-4e5502d4bd0e" />
+
 
